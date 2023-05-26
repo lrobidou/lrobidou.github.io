@@ -11,7 +11,7 @@ redirect_from:
 
 PDF format
 ======
-You can download my CV in PDF format [here](https://lrobidou.github.io/files/files/CV.pdf)
+You can download my CV in PDF format [here](https://lrobidou.github.io/files/CV.pdf)
 
 Education
 ======
