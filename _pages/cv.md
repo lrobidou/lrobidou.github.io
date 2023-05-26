@@ -9,32 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
+PDF format
+======
+You can download my CV in PDF format [here](https://lrobidou.github.io/files/files/CV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Prep school at Lycée Lesage, in Vannes, 2015 - 2017
+* Engineering school (computer science) at Sup Galilée, in Villetaneuse, 2017 - 2020
+  * university exchange program, at Hanyang University, in Seoul (one semester)
+* Ph.D at Inria, in Rennes, 2020 - 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2023: PhD student
+  * Inria, Rennes (Britanny)
+  * Supervisor: Pierre Peterlongo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2020: Internship - Software engineer
+  * Sopra Steria, St Gregoire (Britanny)
+  * Duties included: discussion with the client, documentation, tests, development, code reviews...
+
+* 2019: Internship - Software developer
+  * National center for scientific research (CNRS), Villetaneuse (Île-de-France)
+  * Duties included: discussion with the client, documentation, development...
+  * tech used: Python
+
+* 2018 - 2019: group project
+  * National center for scientific research (CNRS), Villetaneuse (Île-de-France)
+  * Creation of a website to plot chemical reactions graphs [https://ammonx.lspm.cnrs.fr/](https://ammonx.lspm.cnrs.fr/)
+  * tech used: PHP
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* programming languages
+  * Python
+  * C++
+  * Rust
+  * Java
+  * C
+  * ...
 
 Publications
 ======
@@ -53,7 +67,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
