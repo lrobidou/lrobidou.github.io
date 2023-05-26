@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-LATEX
 venue: "ENSAI"
-date: 2022
+# date: 2022
 location: "Bruz, France"
 ---
 
