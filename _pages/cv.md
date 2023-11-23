@@ -18,10 +18,14 @@ Education
 * Prep school at Lycée Lesage, in Vannes, 2015 - 2017
 * Engineering school (computer science) at Sup Galilée, in Villetaneuse, 2017 - 2020
   * university exchange program, at Hanyang University, in Seoul (one semester)
-* Ph.D at Inria, in Rennes, 2020 - 2023 (expected)
+* Ph.D at Inria, in Rennes, 2020 - 2023
 
 Work experience
 ======
+* 2023 - ongoing: postdoc
+  * Bielefeld University, Genome Informatics
+  * Head of team: Jens Stoye
+
 * 2020-2023: PhD student
   * Inria, Rennes (Britanny)
   * Supervisor: Pierre Peterlongo
