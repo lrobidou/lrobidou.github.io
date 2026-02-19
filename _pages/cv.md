@@ -13,13 +13,6 @@ PDF format
 ======
 You can download my CV in PDF format [here](https://lrobidou.github.io/files/CV.pdf)
 
-Education
-======
-* Prep school at Lycée Lesage, in Vannes, 2015 - 2017
-* Engineering school (computer science) at Sup Galilée, in Villetaneuse, 2017 - 2020
-  * university exchange program, at Hanyang University, in Seoul (one semester)
-* Ph.D at Inria, in Rennes, 2020 - 2023
-
 Work experience
 ======
 
@@ -48,6 +41,13 @@ Work experience
   * National center for scientific research (CNRS), Villetaneuse (Île-de-France)
   * Creation of a website to plot chemical reactions graphs [https://ammonx.lspm.cnrs.fr/](https://ammonx.lspm.cnrs.fr/)
   * tech used: PHP
+
+Education
+======
+* Prep school at Lycée Lesage, in Vannes, 2015 - 2017
+* Engineering school (computer science) at Sup Galilée, in Villetaneuse, 2017 - 2020
+  * university exchange program, at Hanyang University, in Seoul (one semester)
+* Ph.D at Inria, in Rennes, 2020 - 2023
 
 Skills
 ======
