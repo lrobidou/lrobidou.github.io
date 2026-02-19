@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a french postdoc in the [Genome Informatics](https://gi.cebitec.uni-bielefeld.de/) in Bielefeld University.
+I am a French CNRS engineer working in:
+- the SSFA team, at [I2BC](https://www.i2bc.paris-saclay.fr/) in Gif-sur-Yvette
+- the [Bonsai](https://www.cristal.univ-lille.fr/bonsai/) team in Lille
 
-I did my Ph.D. at [Inria](https://www.inria.fr/en), in [Rennes](https://www.inria.fr/en/inria-centre-rennes-university) University, in the [GenSacle](https://team.inria.fr/genscale/) team under [Pierre Peterlongo](https://people.rennes.inria.fr/Pierre.Peterlongo/)'s supervision.
+Prior to that, I completed my Ph.D. at [Inria](https://www.inria.fr/en), in [Rennes](https://www.inria.fr/en/inria-centre-rennes-university) University, within the [GenScale](https://team.inria.fr/genscale/) team under the supervision of [Pierre Peterlongo](https://people.rennes.inria.fr/Pierre.Peterlongo/).
+
+I also held a postdoctoral position in the [Genome Informatics](https://gi.cebitec.uni-bielefeld.de/) at Bielefeld University.
 
 Research topics
 ======
-I am currently interested in algorithms and datastructures for indexing DNA sequences.
+I am interested in algorithms and datastructures for indexing DNA sequences.
 
-Currently, there is no search engine able to search among the huge number of DNA datasets publicly available. My research focuses on indexing those publicly available DNA sequences to build such search engine.
-Since existing indexes may yields false positives, we developed a method to improve them on the fly, reducing the number of false positives and allowing faster queries.
+During my thesis, I worked on improving search engines to search among the huge number of DNA datasets publicly available. Since existing indexes may yield false positives, we developed a method to improve them on the fly, reducing the number of false positives and allowing faster queries.
+
+During my postdoc, I worked on reducing the size of datastructures representing sets of k-mers.

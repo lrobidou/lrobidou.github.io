@@ -22,7 +22,12 @@ Education
 
 Work experience
 ======
-* 2023 - ongoing: postdoc
+
+* 2025 - ongoing: enginner
+  * Gif-sur-Yvette, I2BC, SSFA Team
+  * Lille, Bonsai Team
+
+* 2023 - 2025 postdoc
   * Bielefeld University, Genome Informatics
   * Head of team: Jens Stoye
 
@@ -47,9 +52,9 @@ Work experience
 Skills
 ======
 * programming languages
+  * Rust
   * Python
   * C++
-  * Rust
   * Java
   * C
   * ...
